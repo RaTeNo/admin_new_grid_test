@@ -2504,18 +2504,6 @@
         margin-top: 20px;
     }
 
-    .catalog_items > * {
-        width: 100%;
-        margin-left: 0;
-        margin-bottom: 0;
-    }
-    .catalog_items {
-        margin-left: 0;
-        margin-bottom: 0;
-    }
-    .catalog_item + .catalog_item {
-        margin-top: 16px;
-    }
     .catalog_box_title {
         font-size: 20px;
         line-height: 24px;
